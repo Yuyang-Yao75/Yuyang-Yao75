@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Yuyang Yao (姚宇阳)**, a Master's student in **Financial Mathematics @ Fudan University**.  
+I'm **Yuyang Yao**, a Master's student in **Financial Mathematics @ Fudan University**.  
 I’m passionate about **Quantitative Finance, Artificial Intelligence, and Cross-disciplinary Research**.
 
 - 🔭 I’m currently working on **index futures arbitrage** and **option strategies**  
